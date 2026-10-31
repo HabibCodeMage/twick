@@ -51,7 +51,7 @@
     "@ffprobe-installer/ffprobe": "^2.0.0",
     "dotenv": "^16.4.5",
     "express": "^5.1.0",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
